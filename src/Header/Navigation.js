@@ -3,8 +3,8 @@ import styles from './Navigation.module.css';
 
 const Navigation=(props)=>{
     return(
-        
-        < nav className={styles["main-nav"]}>
+        <div>
+        {!props.chk &&< nav className={styles["main-nav"]}>
             <ul className={styles["main-nav__items"]}>
                 <li className={styles["main-nav__item"]}>
                     <a href="/">Home</a>
@@ -28,7 +28,8 @@ const Navigation=(props)=>{
                     <a href="/">Our Blog</a>
                 </li>
             </ul>
-        </nav>
+        </nav>}
+        </div>
     );
 }
 
