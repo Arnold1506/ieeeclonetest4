@@ -1,0 +1,31 @@
+.main-nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-nav__items{
+    list-style: none;
+    display: flex;
+}
+
+.main-nav__item{
+    margin-left: 1rem;
+}
+
+.main-nav__item a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: white;
+}
+
+@media (max-width:40rem) {
+    .main-nav__items{
+        display: none;
+        flex-direction: column;
+        width: 100%;
+    }
+    .main-nav__item{
+        margin: 1rem;
+        border-bottom: black 2px solid;
+    }
+}

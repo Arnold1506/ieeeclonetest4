@@ -1,0 +1,133 @@
+main {
+  overflow-x: hidden;
+}
+
+.mobile-first-content {
+  display: none;
+}
+
+.first-content {
+  background-image: url("./Backgroundimg.png");
+  width: 100%;
+  height: 70vh;
+  background-size: cover;
+  margin-top: 5.6rem;
+  position: relative;
+}
+
+.header-content {
+  position: absolute;
+  top: 13%;
+  left: 36%;
+  width: 40%;
+}
+.header-content h1 {
+  color: white;
+  font-size: 7rem;
+  margin-bottom: 1rem;
+}
+.header-content h2 {
+  color: white;
+  margin: 0 auto;
+}
+
+.main-content {
+  width: 80%;
+  padding: 1rem auto;
+  margin: 0 auto;
+}
+
+.main-content h1 {
+  color: black;
+  font-size: 4rem;
+}
+
+.content-one {
+  width: 100%;
+  margin: 1rem 0;
+  /* border: 4px solid #0e4f1f; */
+  padding: 2rem;
+  font-size: 2rem;
+  position: relative;
+  display: flex;
+  padding: 2rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content {
+  text-align: center;
+  margin: auto 3rem;
+}
+
+.content img {
+  height: 15rem;
+}
+
+.content-two {
+  width: 100%;
+  margin: 1rem 0;
+  /* border: 4px solid #0e4f1f; */
+  padding: 2rem;
+  font-size: 2rem;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+  align-items: center;
+  float: right;
+}
+
+.content-three {
+  width: 100%;
+  margin: 1rem 0;
+  font-size: 2rem;
+  /* border: 4px solid #0e4f1f; */
+  padding: 2rem;
+  position: relative;
+  display: flex;
+  padding: 2rem;
+  align-items: center;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  font-size: 3rem;
+}
+
+.label-container-twh {
+  padding: 3rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.label {
+  margin: 2rem;
+  text-align: center;
+  border: 1px black solid;
+}
+
+@media (max-width: 40rem) {
+  .content-one,
+  .content-two {
+    flex-direction: column;
+  }
+
+  .first-content {
+    display: none;
+  }
+
+  .mobile-first-content {
+    margin-top: 7rem;
+    text-align: center;
+    display: block;
+  }
+  .mobile-first-content h1 {
+    font-size: 5rem;
+    background-image: url("./Backgroundimg.png");
+    color: white;
+    height: 40%;
+  }
+}
