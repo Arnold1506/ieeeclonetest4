@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ieeeclonetest4/static/css/main.e49151c5.chunk.css",
-    "main.js": "/ieeeclonetest4/static/js/main.1a3f0202.chunk.js",
-    "main.js.map": "/ieeeclonetest4/static/js/main.1a3f0202.chunk.js.map",
-    "runtime-main.js": "/ieeeclonetest4/static/js/runtime-main.18a52ce5.js",
-    "runtime-main.js.map": "/ieeeclonetest4/static/js/runtime-main.18a52ce5.js.map",
-    "static/js/2.453c333a.chunk.js": "/ieeeclonetest4/static/js/2.453c333a.chunk.js",
-    "static/js/2.453c333a.chunk.js.map": "/ieeeclonetest4/static/js/2.453c333a.chunk.js.map",
-    "static/js/3.1106e05e.chunk.js": "/ieeeclonetest4/static/js/3.1106e05e.chunk.js",
-    "static/js/3.1106e05e.chunk.js.map": "/ieeeclonetest4/static/js/3.1106e05e.chunk.js.map",
+    "main.css": "/ieeeclonetest4/static/css/main.606fd343.chunk.css",
+    "main.js": "/ieeeclonetest4/static/js/main.f6bacd4e.chunk.js",
+    "main.js.map": "/ieeeclonetest4/static/js/main.f6bacd4e.chunk.js.map",
+    "runtime-main.js": "/ieeeclonetest4/static/js/runtime-main.79fe8d06.js",
+    "runtime-main.js.map": "/ieeeclonetest4/static/js/runtime-main.79fe8d06.js.map",
+    "static/js/2.44cbfe76.chunk.js": "/ieeeclonetest4/static/js/2.44cbfe76.chunk.js",
+    "static/js/2.44cbfe76.chunk.js.map": "/ieeeclonetest4/static/js/2.44cbfe76.chunk.js.map",
+    "static/js/3.d0662a6a.chunk.js": "/ieeeclonetest4/static/js/3.d0662a6a.chunk.js",
+    "static/js/3.d0662a6a.chunk.js.map": "/ieeeclonetest4/static/js/3.d0662a6a.chunk.js.map",
     "index.html": "/ieeeclonetest4/index.html",
-    "static/css/main.e49151c5.chunk.css.map": "/ieeeclonetest4/static/css/main.e49151c5.chunk.css.map",
-    "static/js/2.453c333a.chunk.js.LICENSE.txt": "/ieeeclonetest4/static/js/2.453c333a.chunk.js.LICENSE.txt",
+    "static/css/main.606fd343.chunk.css.map": "/ieeeclonetest4/static/css/main.606fd343.chunk.css.map",
+    "static/js/2.44cbfe76.chunk.js.LICENSE.txt": "/ieeeclonetest4/static/js/2.44cbfe76.chunk.js.LICENSE.txt",
     "static/media/Homepage.module.css": "/ieeeclonetest4/static/media/Backgroundimg.50492624.png",
     "static/media/IEEELOGO.fa1e2af9.png": "/ieeeclonetest4/static/media/IEEELOGO.fa1e2af9.png",
     "static/media/Vit.52449a7c.jpg": "/ieeeclonetest4/static/media/Vit.52449a7c.jpg",
@@ -19,9 +19,9 @@
     "static/media/logo.6ce24c58.svg": "/ieeeclonetest4/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.18a52ce5.js",
-    "static/js/2.453c333a.chunk.js",
-    "static/css/main.e49151c5.chunk.css",
-    "static/js/main.1a3f0202.chunk.js"
+    "static/js/runtime-main.79fe8d06.js",
+    "static/js/2.44cbfe76.chunk.js",
+    "static/css/main.606fd343.chunk.css",
+    "static/js/main.f6bacd4e.chunk.js"
   ]
 }
